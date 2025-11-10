@@ -109,41 +109,9 @@ Rice-Leaf-Disease-using-CNN/
 
 ---
 
-## 👩‍💻 Team Contribution (5-Day Work Plan)
-| Day | Member | Contribution | Deliverable |
-|-----|---------|--------------|-------------|
-| **Day 1** | Nandhakumar (Team Lead) | Dataset collection, structure setup, and environment configuration | Dataset prepared |
-|  | Suvaathii | Initial EDA and visualization of image classes | Data analysis report |
-|  | Swetha | Assisted in cleaning and resizing images | Preprocessed dataset |
-|  | Rehana | Helped document dataset structure and tasks | Dataset documentation |
-| **Day 2** | Nandhakumar | Designed CNN base architecture | Model draft |
-|  | Suvaathii | Implemented data augmentation pipeline | Augmented dataset |
-|  | Swetha | Model compilation and parameter tuning | Trained model |
-|  | Rehana | Visualized training accuracy and loss | Graphs plotted |
-| **Day 3** | All | Model evaluation, testing, and fine-tuning | Evaluation report |
-| **Day 4** | All | Model comparison and challenge report creation | Comparison table |
-| **Day 5** | All | Final documentation, notebook integration, and GitHub upload | Final submission |
-
----
-
 ## 🏁 Conclusion
 This project successfully demonstrates the use of **deep learning for agricultural disease detection**.  
 By leveraging CNN and augmentation techniques, we achieved a robust classification model that can support **automated plant health monitoring** systems.  
-
----
-
-## 📜 License
-This project is developed as part of the **PRCP-1001 Capstone Project** and is intended for educational and research purposes only.
-
----
-
-## 👥 Team Members
-| Name | Role |
-|------|------|
-| **Nandhakumar** | Team Lead & Model Developer |
-| **Suvaathii Bhuvaneswari** | Data Analyst & Augmentation Specialist |
-| **Swetha** | Model Training & Evaluation |
-| **Rehana** | Visualization & Documentation |
 
 ---
 
