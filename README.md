@@ -92,10 +92,9 @@ Rice-Leaf-Disease-using-CNN/
 | Model Variant | Optimizer | Accuracy | Key Observations |
 |----------------|------------|-----------|------------------|
 | CNN (Base) | Adam | 91% | Fast convergence, slight overfitting |
-| CNN + Dropout | Adam | 93% | Better generalization |
-| CNN + Data Augmentation | RMSprop | 95% | Highest accuracy and robustness |
+| CNN + Dropout | Adam | 93% |  Highest accuracy and Better generalization |
 
-**Best Model:** CNN + Data Augmentation (95% accuracy)
+**Best Model:** CNN + Dropout (93% accuracy)
 
 ---
 
